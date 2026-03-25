@@ -34,8 +34,9 @@ RegisterNumber: 212225240141
 ```
 
 ## Output:
-![gaussian elimination]()
+<img width="616" height="881" alt="567272535-dfccd644-d10a-4810-948f-951ddcc28f06" src="https://github.com/user-attachments/assets/0450eddf-f772-4d4f-88e4-661137589050" />
 
+<img width="458" height="193" alt="image" src="https://github.com/user-attachments/assets/c47133ae-d073-43b7-a3bc-8419733e6a8a" />
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
